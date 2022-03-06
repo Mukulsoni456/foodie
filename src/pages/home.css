@@ -1,0 +1,13 @@
+.home{
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.items{
+    padding: 0 0px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
